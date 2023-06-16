@@ -19,10 +19,10 @@ Objective of the project is to reduce the number of bits needed to represent dat
   <img src="https://github.com/prazivi/Compressor_Decompressor/blob/master/images/UI.png" alt="UI">
 </div>
 
-<div align="left">
+<div align="left" width="200">
   <img src="https://github.com/prazivi/Compressor_Decompressor/blob/master/images/comp.png" alt="Compressor">
 </div>
 
-<div align="right">
+<div align="right" widht="200">
   <img src="https://github.com/prazivi/Compressor_Decompressor/blob/master/images/decomp.png" alt="Decompressor">
 </div>
