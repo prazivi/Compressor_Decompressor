@@ -12,10 +12,10 @@ Objective of this project is to reduce the number of bits needed to represent da
 ### Project snips
 
 <div align="center">
-  <img src="https://github.com/prazivi/Compressor_Decompressor/blob/master/images/UI.png" alt="UI">
+  <img src="https://github.com/prazivi/Compressor_Decompressor/blob/master/Image/UI.JPG" alt="UI">
 </div>
 
 <div align="center">
-  <img src="https://github.com/prazivi/Compressor_Decompressor/blob/master/images/comp.png" alt="Image 1" width="400" style="display:inline-block;">
-  <img src="https://github.com/prazivi/Compressor_Decompressor/blob/master/images/decomp.png" alt="Image 2" width="400" style="display:inline-block;">
+  <img src="https://github.com/prazivi/Compressor_Decompressor/blob/master/Image/comp.JPG" alt="Image 1" width="400" style="display:inline-block;">
+  <img src="https://github.com/prazivi/Compressor_Decompressor/blob/master/Image/decomp.JPG" alt="Image 2" width="400" style="display:inline-block;">
 </div>
